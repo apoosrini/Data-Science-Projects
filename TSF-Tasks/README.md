@@ -6,6 +6,6 @@ The tasks completed as part of The Sparks Foundation GRIP internship in The Data
 Predict the percentage scored by a student based on the number of study hours.
 
 #### Tools and Methods
-- Tools used: Jupyter Notebook (Supervised-ML-Notebook.ipynb)
+- Tools used: Jupyter Notebook [TSF-Task-1.ipynb](https://github.com/apoosrini/Data-Science-Projects/blob/main/TSF-Tasks/TSF-Task-1.ipynb)
 - Language: Python
 - Algorithm: Linear Regression
